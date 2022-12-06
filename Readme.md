@@ -1,12 +1,18 @@
-<a href="https://ibb.co/W0z5xRv"><img src="https://i.ibb.co/PMWjmVG/Code-with-Skay.png" alt="Code-with-Skay" border="0"></a>
-# <div align="center">Hi , 👋 I'm Code with Skay (Saqib Khan)</div>  
+<a href="#"><img src="https://i.ibb.co/PMWjmVG/Code-with-Skay.png" alt="Code-with-Skay" style="width:1345px;height:500px" border="0">#</a>
+<div align="center">Hi , 👋 I'm Code with Skay (Saqib Khan)</div>
   
 
- Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
+<h3> Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
+    I am specialize in Full stack Development and Devops Engineering with over 4 years of experience.
+    I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project.
+    I am always committed to providing services that is quick, accurate, and professional.
+</h3>
   
 
 - 💻 I am Currently Learning Reat and React Native.  
-  
+- 💻 I am Currently Learning Reat and React Native.
+- 💻 I am Currently Learning Reat and React Native.
+
 
 -  💬 Ask me About any think  
   
@@ -37,8 +43,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
