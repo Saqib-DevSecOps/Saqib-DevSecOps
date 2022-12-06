@@ -1,12 +1,12 @@
-<a href="#"><img src="https://i.ibb.co/PMWjmVG/Code-with-Skay.png" alt="Code-with-Skay" style="width:1345px;height:500px" border="0">#</a>
+<a href="#"><img src="https://i.ibb.co/PMWjmVG/Code-with-Skay.png" alt="Code-with-Skay" style="width:1345px;height:300px" border="0">#</a>
 <div align="center">Hi , 👋 I'm Code with Skay (Saqib Khan)</div>
   
 
-<h3> Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
+ Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
     I am specialize in Full stack Development and Devops Engineering with over 4 years of experience.
     I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project.
     I am always committed to providing services that is quick, accurate, and professional.
-</h3>
+
   
 
 - 💻 I am Currently Learning Reat and React Native.  
@@ -90,7 +90,7 @@
 <br/>  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-devops&hide_border=true&layout=compact" align="left" />
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
