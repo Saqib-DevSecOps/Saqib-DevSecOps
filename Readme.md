@@ -123,15 +123,18 @@
 
 
   
+<div class="row">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en" alt="saqib-devops" /></p>
+    <p>&nbsp;<img align="left"
+                  alt="saqib-devops"
+                  src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" /></p>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=saqib-devops&&style=flat-square" align="center" />
-</div>  
+    <p><img align="right" alt="saqib-devops"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&"/></p>
+</div>
+
+
   
 
 <br/>  
