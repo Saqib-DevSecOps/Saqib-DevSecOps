@@ -121,7 +121,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" />
+<img align="left" style="color:black" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" />
+
+</p>
 
    <p>&nbsp;<img align="center"
                   alt="saqib-devops"
