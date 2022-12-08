@@ -116,21 +116,19 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-devops&hide_border=true&layout=compact" align="left" />
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
 
 
-<br/>  
 
   
 
-<br/>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en" alt="saqib-devops" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" /></p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saqib-devops&&style=flat-square" align="center" />
 </div>  
