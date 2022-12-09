@@ -121,8 +121,12 @@
 
 
 
-
-<p>&nbsp;<img align="left" style="height:160px" src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en" alt="saqib-devops" />
+<br>
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=saqib-devops&theme=onedark" >
+</p>
+<br>
+<p>&nbsp;<img align="left" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en" alt="saqib-devops" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" /></p>
 
 
