@@ -10,11 +10,14 @@
 </h3>
 <p align="center">
 - 🔭 I’m currently working on **Project management system**
-
+</p>
+<p align="center">
 - 🌱 I’m currently learning **React and React Native**
-
+</p>
+<p align="center">
 - 💬 Ask me about **Anything**
-
+</p>
+<p align="center">
 - 📫 How to reach me **saqib71501@gmai.com**
 </p>
 <br/>
