@@ -122,12 +122,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-devops&" alt="saqib-devops" /><img align="center" style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" /></p>
 
-<img align="center"
-                  alt="saqib-devops"
-                  src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en"/>
-</p>
 <p>
    
   <img align="left" style="color:black" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-devops&show_icons=true&locale=en&layout=compact" alt="saqib-devops" />
