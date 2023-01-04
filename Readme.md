@@ -5,7 +5,7 @@
 
 <h3> Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
     I am specialize in Full stack Development and Devops Engineering with over 4 years of experience.
-    I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project.
+    I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project..
     I am always committed to providing services that is quick, accurate, and professional.
 </h3>
 <p align="center">
