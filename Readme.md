@@ -26,10 +26,12 @@
     <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
     <a href=https://www.fiverr.com/saqib_ahmad786" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
 
-    <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
+    <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank" rel="nofollow">
+                                                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
     <a href="https://instagram.com/saqib_ahmad007" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
     <a href="https://linkedin.com/in/saqib-ahmad-62b547258" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-    <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+   
+  <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
     <a href=https://www.fiverr.com/saqib_ahmad786" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
 
 </p>
