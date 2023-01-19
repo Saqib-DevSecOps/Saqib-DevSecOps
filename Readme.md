@@ -5,7 +5,7 @@
 
 <h3> Full Stack Dev and Devops Engineer. Market Experience of almost 3 years & currently Operating as Cheif technical Officer at <a href="https://exarth.com">Exarth</a>
     I am specialize in Full stack Development and Devops Engineering with over 4 years of experience.
-    I have strong expertise in software developent from development to deployment with complete CI/CD pipe-lining for your project.
+    I have strong expertise in software development from development to deployment with complete CI/CD pipe-lining for your project.
     I am always committed to providing services that is quick, accurate, and professional.
 </h3>
 <p align="center">
@@ -18,21 +18,16 @@
 - 💬 Ask me about **Anything**
 </p>
 <p align="center">
-- 📫 How to reach me **saqib71501@gmai.com**
+- 📫 How to reach me ***saqib71501@gmai.com**
 </p>
 <br/>
 <h3 dir="auto" align="center"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
 <p dir="auto" align="center">
-    <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
-    <a href=https://www.fiverr.com/saqib_ahmad786" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
-
-    <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank" rel="nofollow">
-                                                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
+    <a href="https://www.facebook.com/saqibahmad.rahi" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
     <a href="https://instagram.com/saqib_ahmad007" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
     <a href="https://linkedin.com/in/saqib-ahmad-62b547258" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hybridoitc" style="max-width: 100%;" width="40" height="30" align="middle"></a>
-   
-  <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
-    <a href=https://www.fiverr.com/saqib_ahmad786" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+    <a href="https://www.upwork.com/freelancers/~01ae5dcc5619376caa?viewMode=1" target="_blank" rel="nofollow"><img src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
+    <a href="https://www.fiverr.com/saqib_ahmad786?up_rollout=true" target="_blank" rel="nofollow"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6eYr658PmvM02yaa4-QZDP5-drFlL2RqMOmuZW3HKJm3vMGuEsLeS5Pvv58CEQksPX0&usqp=CAU" alt="hybridoitc" style="max-width: 100%;" width="40" height="40" align="middle"></a>
 
 </p>
 
@@ -134,7 +129,7 @@
 
 <br>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=code-with-skay&theme=juicyfresh" >
+    <img src="https://github-profile-trophy.vercel.app/?username=saqib-devops&theme=juicyfresh" >
 </p>
 <br>
 <p>&nbsp;<img align="left" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=saqib-devops&show_icons=true&locale=en" alt="saqib-devops" />
