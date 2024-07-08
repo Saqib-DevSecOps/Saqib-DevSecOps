@@ -17,6 +17,9 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
 <!-- <a href="https://mostafahassan.vercel.app/"><strong>Visit my personal website </strong></a> -->
 <br/>
 
+<img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
 ## ðŸ›  Skills
 
 ![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)
