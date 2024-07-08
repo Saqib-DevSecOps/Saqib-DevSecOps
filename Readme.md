@@ -1,7 +1,7 @@
 <!--
-- 👋 Hi, I’m @Mostafa Hassan
-- 👀 I’m interested in web development
-- 📫 How to reach me mostafahasan.dev@gmail.com
+- 👋 Hi, I’m @Saqib
+- 👀 I’m  Professional Full Stack Web Developer DevOps & Software Engineer.
+- 📫 How to reach me saqibahmad778866@gmail.com
 
 <!---
 Mostafa-Zewail77/Mostafa-Zewail77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes. -->
 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
-I'm Mostafa a front-end developer with a passion for creating visually appealing web experiences. 🎨
+I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. 🎨
 
-I specialize in React.js and Next.js. I'm always on the lookout for new opportunities to grow my skill set and contribute to successful projects. By staying up-to-date with the latest technologies and techniques, I aim to develop the best solutions for my clients. An avid learner, I love to embrace new challenges and explore different problem-solving approaches. 🚀
+ 𝐈 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞 𝐢𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐚𝐧𝐝 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞 𝐥𝐨𝐠𝐢𝐜, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬. 𝐈 𝐩𝐫𝐨𝐯𝐢𝐝𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐞𝐝 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐦𝐞𝐫𝐠𝐞 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐪𝐮𝐚𝐥𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦 𝐭𝐨 𝐚𝐜𝐡𝐢𝐞𝐯𝐞 𝐜𝐥𝐢𝐞𝐧𝐭 𝐨𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 𝐚𝐧𝐝 𝐟𝐨𝐬𝐭𝐞𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐬𝐮𝐜𝐜𝐞𝐬𝐬. 🚀
 <!-- <a href="https://mostafahassan.vercel.app/"><strong>Visit my personal website </strong></a> -->
 <br/>
 
@@ -23,7 +23,6 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ES6](https://img.shields.io/badge/ES6-%23F7DF1E.svg?style=for-the-badge&logo=ES6&logoColor=%23323330)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -32,21 +31,10 @@ I specialize in React.js and Next.js. I'm always on the lookout for new opportun
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Visualstudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 <br/>
 <br/>
 
