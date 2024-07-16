@@ -84,7 +84,7 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
      alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
-    <img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" 
+    <img src="https://i.ibb.co/LRdQXHQ/image-1-removebg-preview.png" alt="image-1-removebg-preview" 
      alt="web-development-with-html-css-javascript-essentials" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
