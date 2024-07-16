@@ -92,7 +92,7 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
      alt="Software Engineering Essentials" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
-    <img src="https://images.credly.com/size/110x110/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png" 
+    <img src="https://images.credly.com/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png" 
      alt="intermediate-front-end-web-development" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
