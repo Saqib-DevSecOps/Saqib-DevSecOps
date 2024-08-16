@@ -107,6 +107,30 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/developing-application-with-sql-database-and-django.png" 
      alt="developing-application-with-sql-database-and-django" width="100" height="100">
   </a>
+    <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Web-Development.png" 
+     alt="Web-Development" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Frontend-Development-with-React.png" 
+     alt="Frontend-Development-with-React" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Node-and-Express-Essentials.png" 
+     alt="Node-and-Express-Essentials" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-For-Data-science-and-ai.png" 
+     alt="Python-For-Data-science-and-ai" width="100" height="100">
+  </a>
+   <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-Project-for-ai-and-application-development.png" 
+     alt="Python-Project-for-ai-and-application-development" width="100" height="100">
+  </a>
+    <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/developing-application-with-sql-database-and-django.png" 
+     alt="developing-application-with-sql-database-and-django" width="100" height="100">
+  </a>
 
 </div>
 
