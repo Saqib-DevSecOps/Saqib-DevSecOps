@@ -80,7 +80,7 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
      alt="designing-user-interfaces-and-experiences-ui-ux" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
-    <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" 
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Introduction-to-cloud.png" 
      alt="cloud-native-devops-agile-nosql-essentials" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
