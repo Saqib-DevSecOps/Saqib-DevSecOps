@@ -75,63 +75,39 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ü
 ## üèÜ Badges
 
 <div align="center">
-  <a href="https://www.credly.com/badges/84da1498-c523-46c8-8605-55720c8bd7f5">
+  <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Introduction-to-cloud.png" 
      alt="Introduction to Cloud Computing" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/aaea3ab8-2d1a-46c2-9177-2ea64a44d1a8">
+  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Git-and-Github-Essentials.png" alt="image-1-removebg-preview" 
      alt="Git-and-Github-Essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
+  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Web-Development.png" 
      alt="Web-Development" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
+  <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Frontend-Development-with-React.png" 
      alt="Frontend-Development-with-React" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
+  <a href="https://www.credly.com/badges/5957b932-34d9-49d0-99b0-7e8c6968ff06">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Node-and-Express-Essentials.png" 
      alt="Node-and-Express-Essentials" width="100" height="100">
   </a>
-  <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+  <a href="https://www.credly.com/badges/c60dd9c3-a543-409e-9590-a795ad1724e0">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-For-Data-science-and-ai.png" 
      alt="Python-For-Data-science-and-ai" width="100" height="100">
   </a>
-   <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+   <a href="https://www.credly.com/badges/68c64d90-9325-4368-a059-d2164644fc78">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-Project-for-ai-and-application-development.png" 
      alt="Python-Project-for-ai-and-application-development" width="100" height="100">
   </a>
-    <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
+    <a href="https://www.credly.com/badges/aff41fb1-3bf1-4a67-a612-eddc1d3c6a51">
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/developing-application-with-sql-database-and-django.png" 
      alt="developing-application-with-sql-database-and-django" width="100" height="100">
   </a>
-    <a href="https://www.credly.com/badges/a1830143-fe17-40f7-8caa-0e7d8530722c">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Web-Development.png" 
-     alt="Web-Development" width="100" height="100">
-  </a>
-  <a href="https://www.credly.com/badges/2fdf0ad5-3bfd-4aab-ae81-8d106505b3d8">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Frontend-Development-with-React.png" 
-     alt="Frontend-Development-with-React" width="100" height="100">
-  </a>
-  <a href="https://www.credly.com/badges/9fba1e4e-3334-4641-84a8-f0941d3226be">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Node-and-Express-Essentials.png" 
-     alt="Node-and-Express-Essentials" width="100" height="100">
-  </a>
-  <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-For-Data-science-and-ai.png" 
-     alt="Python-For-Data-science-and-ai" width="100" height="100">
-  </a>
-   <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Python-Project-for-ai-and-application-development.png" 
-     alt="Python-Project-for-ai-and-application-development" width="100" height="100">
-  </a>
-    <a href="https://www.credly.com/badges/120407eb-eda8-40f5-84d7-2f5b194981c8">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/developing-application-with-sql-database-and-django.png" 
-     alt="developing-application-with-sql-database-and-django" width="100" height="100">
-  </a>
-
+   
 </div>
 
 
