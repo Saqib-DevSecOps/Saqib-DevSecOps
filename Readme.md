@@ -108,7 +108,7 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
      alt="developing-application-with-sql-database-and-django" width="100" height="100">
   </a>
    <a href="https://www.credly.com/badges/1116751d-94a0-4d07-a341-7f57dd8ea323">
-    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Container-and-Kubernates-Essentials-V2.png.png" 
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Container-and-Kubernates-Essentials-V2.png" 
      alt="Container-and-Kubernates-Essentials-V2" width="100" height="100">
   </a>
      <a href="https://www.credly.com/badges/1ce9d1aa-693c-4a60-b2fc-ce6e9206dba5">
