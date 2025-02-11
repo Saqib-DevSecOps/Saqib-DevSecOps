@@ -111,6 +111,22 @@ I'm saqib a Professional Full Stack Web Developer DevOps & Software Engineer. ðŸ
     <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Container-and-Kubernates-Essentials-V2.png.png" 
      alt="Container-and-Kubernates-Essentials-V2" width="100" height="100">
   </a>
+     <a href="https://www.credly.com/badges/1ce9d1aa-693c-4a60-b2fc-ce6e9206dba5">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Application-Development-Using-Microservice-and-Serverless.png" 
+     alt="Application-Development-Using-Microservice-and-Serverless" width="100" height="100">
+  </a>
+     <a href="https://www.credly.com/badges/5ce4122e-c0b0-43ee-8b5c-d6ad978ea0ce">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Full-Stack-Application-Development-Assignment-V2.png" 
+     alt="Full-Stack-Application-Development-Assignment-V2" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/6236b004-e70c-4c91-9ed5-bb8728349627">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Full-Stack-Application-Development-Capstone-Project-V2.png" 
+     alt="Full-Stack-Application-Development-Capstone-Project-V2" width="100" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/b191cd15-a7ad-47f2-bae9-5a3606585161">
+    <img src="https://raw.githubusercontent.com/Saqib-DevSecOps/Saqib-DevSecOps/main/certificates/Full-Stack-Software-Developer.png" 
+     alt="Full-Stack-Software-Developer" width="100" height="100">
+  </a>
    
 </div>
 
